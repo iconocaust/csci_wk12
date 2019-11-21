@@ -30,6 +30,7 @@ def Union():
 
 # INTERSECTION
 def Intersection():
+    intersexion... perv
 
 # NOT IN
 def NotIn():
