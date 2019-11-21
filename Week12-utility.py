@@ -10,6 +10,7 @@ def PrintOutput(string):
     
 # LOAD FILE
 def LoadFile():
+    f = open(file, "r")
 
 # UPDATE STRING
 def UpdateString():
