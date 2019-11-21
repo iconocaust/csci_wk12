@@ -18,6 +18,7 @@ def UpdateString():
     
 # FIND WORD COUNT
 def FindWordCount():
+    words and stuff and things
 
 #SCORE FINDER
 def ScoreFinder():
