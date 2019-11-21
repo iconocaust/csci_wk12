@@ -22,6 +22,7 @@ def FindWordCount():
 
 #SCORE FINDER
 def ScoreFinder():
+    wats da score?
 
 # UNION
 def Union():
