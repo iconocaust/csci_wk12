@@ -26,6 +26,7 @@ def ScoreFinder():
 
 # UNION
 def Union():
+    who remembers union underground?  NO?  that's fine
 
 # INTERSECTION
 def Intersection():
