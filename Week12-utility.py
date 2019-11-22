@@ -2,6 +2,9 @@
 GALEN STEVENSON
 CSCI 102 -C
 WEEK 11 LABA
+
+GITHUB: github.com/iconocaust/csci_wk12
+
 """
 
 # PRINT OUTPUT
